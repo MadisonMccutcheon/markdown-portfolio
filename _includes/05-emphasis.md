@@ -1,8 +1,8 @@
-*This text will be italic*
-_This will also be italic_
+*Fun*
+_Food_
 
-**This text will be bold**
-__This will also be bold__
+**sports**
+__Friends__
 
-_You **can** combine them_
+_I **love** my family_
 🐇
